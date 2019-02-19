@@ -1,0 +1,13 @@
+{
+	"name": "hot-chicken-wings",
+	"version": "1.0.0",
+	"description": "Determines how many chicken wings you can have",
+	"license": "MIT",
+	"repository": "j-mes/hot-chicken-wings",
+	"main": "index.js",
+	"keywords": [
+		"hot chicken wings",
+		"chicken wings",
+		"silly app"
+	]
+}
